@@ -1,7 +1,7 @@
 {
 	"name": "egg-aliyun-tablestore",
-	"version": "0.0.2",
-	"description": "Recommend Aliyun TableStore Plugin For Egg.js Web Framework",
+	"version": "1.0.0",
+	"description": "（推荐）阿里云表格存储（Tablestore）插件，用于 Egg.js 框架。",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,10 @@
 	"keywords": [
 		"egg",
 		"egg-plugin",
-		"eggPlugin"
+		"eggPlugin",
+		"Aliyun",
+		"aliyun",
+		"database"
 	],
 	"author": "inlym",
 	"license": "MIT",
@@ -23,5 +26,8 @@
 	"homepage": "https://github.com/inlym/egg-aliyun-tablestore#readme",
 	"dependencies": {
 		"tablestore": "^5.0.7"
+	},
+	"eggPlugin": {
+		"name": "tablestore"
 	}
 }
