@@ -1,0 +1,27 @@
+{
+	"name": "egg-aliyun-tablestore",
+	"version": "0.0.2",
+	"description": "Recommend Aliyun TableStore Plugin For Egg.js Web Framework",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inlym/egg-aliyun-tablestore.git"
+	},
+	"keywords": [
+		"egg",
+		"egg-plugin",
+		"eggPlugin"
+	],
+	"author": "inlym",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inlym/egg-aliyun-tablestore/issues"
+	},
+	"homepage": "https://github.com/inlym/egg-aliyun-tablestore#readme",
+	"dependencies": {
+		"tablestore": "^5.0.7"
+	}
+}
