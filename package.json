@@ -1,6 +1,6 @@
 {
 	"name": "egg-aliyun-tablestore",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "（推荐）阿里云表格存储（Tablestore）插件，用于 Egg.js 框架。",
 	"main": "index.js",
 	"scripts": {
@@ -16,7 +16,8 @@
 		"eggPlugin",
 		"Aliyun",
 		"aliyun",
-		"database"
+		"database",
+		"tablestore"
 	],
 	"author": "inlym",
 	"license": "MIT",

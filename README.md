@@ -151,3 +151,7 @@ async ()=>{
 ```js
 const client1 = app.ots.get('ots1')
 ```
+
+### 获取原始类
+
+静态属性、方法调用时，需要获取原始的 `TableStore` 类，可以使用访问 `app.TableStore` 来获取。
