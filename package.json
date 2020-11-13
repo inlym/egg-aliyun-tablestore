@@ -1,7 +1,7 @@
 {
 	"name": "egg-aliyun-tablestore",
-	"version": "1.1.0",
-	"description": "（推荐）阿里云表格存储（Tablestore）插件，用于 Egg.js 框架。",
+	"version": "1.1.1",
+	"description": "🚚 阿里云表格存储（Tablestore）插件，用于 Egg.js 框架",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
